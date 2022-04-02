@@ -1,6 +1,6 @@
 # Recommender-Systems
 
-[movies.png]
+![alt text](https://github.com/jajokine/Recommender-Systems/blob/main/movies.png)
 
 A Recommender System is a process that seeks to predict or filter user preferences according to the user's choices that are based on explicit (i.e. direct user interactions) and/or implicit feedback (i.e. indirect user interactions) from the user in order to provide recommendations what the user should do next. These choices are usually analyzed through methods such as clustering, nearest neighbor or matrix factorization, and the systems are widely being used in search queries in general, as well as in various online products and services such as videos, movies, music, news, and books.
 
