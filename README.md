@@ -12,7 +12,9 @@ The third category which is the one that is being used today, uses a combination
 
 The benefits of using the latest hybrid methods is that they are easier to scale to larger data sets and can better derive both tastes and preferences from the user patterns than the previous two. which rely heavily on the distances between the specific data points that are usually quite sparsely represented in large datasets, and hence, can lead to overfitting or just noisy representations of user tastes and preferences as there is just not enough information available, especially explicit feedback or that it can be difficult to distinguish positive implicit feedback from negative ones.
 
-In this notebook I will explore three hybrid methods. The first method uses a Neural Colloborative Filtering (NCF) model with PyTorch Lightning that captures the implicit feedback from positively and negatively labeled interactions inorder to make predictions what movies the user would like to see. After this, the second model is built with the TensorFlow and the Keras libraries that utilize the explicit feedback from ratings in predicting what the user would like to see, and these results will be compared to the third model based on matrix factorization with SVD to see what kind of differences might arise.
+In this notebook I will explore three hybrid methods. The first method uses a Neural Colloborative Filtering (NCF) model with PyTorch Lightning that captures the implicit feedback from positively and negatively labeled interactions inorder to make predictions what movies the user would like to see. 
+
+The second model follows the same idea with a bit more complicated architecture that is based on explicit feedback from the ratings. We will then make some movie recommendations and compare these to a third model that uses a completely different approach through matrix factorization with SVD so it will be interesting to see how all these approaches perform.
 
 ## Dataset
 
