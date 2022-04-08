@@ -3,7 +3,7 @@
 
 <p align='center'>
       <img
-           width='900'
+           width='1000'
            height='400'
            src='https://github.com/jajokine/Recommender-Systems/blob/main/movies.png'
       >
