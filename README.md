@@ -4,7 +4,7 @@
 <p align='center'>
       <img
            width='300'
-           height='300'
+           height='600'
            src='https://github.com/jajokine/Recommender-Systems/blob/main/movies.png'
       >
 </p>
