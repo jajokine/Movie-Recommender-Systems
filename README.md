@@ -1,5 +1,5 @@
 <h1 align='center'>Recommender Systems</h1>
-<h2><center>with Neural Collaborative Filtering and Matrix Factorization</center></h2>
+<h2 align='center>with Neural Collaborative Filtering and Matrix Factorization</h2>
 
 ![alt text](https://github.com/jajokine/Recommender-Systems/blob/main/movies.png)
 
