@@ -29,7 +29,7 @@ The dataset comes from MovieLens project collected by GroupLens Research at the 
 
 ## Access and Requirements
 
-The file recommender.ipynb is the Jupyter Notebook that contains all the code and analysis of the project.
+The file [recommender.ipynb](https://github.com/jajokine/Recommender-Systems/blob/main/recommender.ipynb) is the Jupyter Notebook that contains all the code and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
