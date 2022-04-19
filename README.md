@@ -5,7 +5,7 @@
       <img
            width='1000'
            height='400'
-           src='https://github.com/jajokine/Recommender-Systems/blob/main/movies.png'
+           src='https://github.com/jajokine/Recommender-Systems/tree/main/Images/movies.png'
       >
 </p>
 
