@@ -9,7 +9,7 @@
       >
 </p>
 
-A Recommender System is a process that seeks to predict or filter user preferences according to the user's choices that are based on explicit (i.e. direct user interactions) and/or implicit feedback (i.e. indirect user interactions) from the user in order to provide recommendations what the user should do next. These choices are usually analyzed through methods such as clustering, nearest neighbor or matrix factorization, and the systems are widely being used in search queries in general, as well as various online products and services such as videos, movies, music, news, and books.
+A recommender system is a process that seeks to predict or filter user preferences according to the user's choices that are based on explicit (i.e. direct user interactions) and/or implicit feedback (i.e. indirect user interactions) from the user in order to provide recommendations what the user should do next. These choices are usually analyzed through methods such as clustering, nearest neighbor or matrix factorization, and the systems are widely being used in search queries in general, as well as various online products and services such as videos, movies, music, news, and books.
 
 The main idea is that we have a large database of users, but only a few of these people have actually given any explicit feedback from their interactions. This creates a database that is very sparse with insightful information and the key is to find a way to fill the missing entries either through feature engineering where we transform the explicit interactions into implicit ones, and hence create a different problem that is easier to solve or we try to fill the empty entries with different kinds of predictive methods.  
 
