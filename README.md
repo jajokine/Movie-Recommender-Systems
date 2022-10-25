@@ -1,4 +1,4 @@
-<h1 align='center'>Recommender Systems</h1>
+<h1 align='center'>Movie Recommender Systems</h1>
 <h2 align='center'>with Neural Collaborative Filtering and Matrix Factorization</h2>
 
 <p align='center'>
